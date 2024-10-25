@@ -1,5 +1,5 @@
 /**
- * @description Find functions that are longer than 10 lines, and functions that are called pressActionKey
+ * @description Find functions that are longer than 10 lines
  * @kind problem
  * @id javascript/function-length
  * @problem.severity recommendation

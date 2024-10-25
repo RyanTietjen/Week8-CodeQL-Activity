@@ -6,6 +6,6 @@
  */
 import javascript
 
-from Function f,
+from Function f
 where f.getNumLines() > 10
-select f, "Contains more than 10 lines"
+select f, "Contains more than 10 lines" 
